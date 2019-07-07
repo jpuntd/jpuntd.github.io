@@ -1,2 +1,1 @@
-# jpuntd.github.io
-webpage with some projects
+Code for a small projects website
